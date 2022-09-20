@@ -1,0 +1,17 @@
+C:\Users\Pedro\source\repos\KantarDeveloperCodingTest\KantarDeveloperCodingTest\obj\Debug\net6.0\KantarDeveloperCodingTest.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\KantarDeveloperCodingTest\KantarDeveloperCodingTest\obj\Debug\net6.0\KantarDeveloperCodingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\KantarDeveloperCodingTest\KantarDeveloperCodingTest\obj\Debug\net6.0\KantarDeveloperCodingTest.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\KantarDeveloperCodingTest\KantarDeveloperCodingTest\obj\Debug\net6.0\KantarDeveloperCodingTest.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\KantarDeveloperCodingTest\KantarDeveloperCodingTest\obj\Debug\net6.0\KantarDeveloperCodingTest.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\KantarDeveloperCodingTest\KantarDeveloperCodingTest\bin\Debug\net6.0\KantarDeveloperCodingTest.exe
+C:\Users\Pedro\source\repos\KantarDeveloperCodingTest\KantarDeveloperCodingTest\bin\Debug\net6.0\KantarDeveloperCodingTest.deps.json
+C:\Users\Pedro\source\repos\KantarDeveloperCodingTest\KantarDeveloperCodingTest\bin\Debug\net6.0\KantarDeveloperCodingTest.runtimeconfig.json
+C:\Users\Pedro\source\repos\KantarDeveloperCodingTest\KantarDeveloperCodingTest\bin\Debug\net6.0\KantarDeveloperCodingTest.dll
+C:\Users\Pedro\source\repos\KantarDeveloperCodingTest\KantarDeveloperCodingTest\bin\Debug\net6.0\KantarDeveloperCodingTest.pdb
+C:\Users\Pedro\source\repos\KantarDeveloperCodingTest\KantarDeveloperCodingTest\obj\Debug\net6.0\KantarDeveloperCodingTest.dll
+C:\Users\Pedro\source\repos\KantarDeveloperCodingTest\KantarDeveloperCodingTest\obj\Debug\net6.0\refint\KantarDeveloperCodingTest.dll
+C:\Users\Pedro\source\repos\KantarDeveloperCodingTest\KantarDeveloperCodingTest\obj\Debug\net6.0\KantarDeveloperCodingTest.pdb
+C:\Users\Pedro\source\repos\KantarDeveloperCodingTest\KantarDeveloperCodingTest\obj\Debug\net6.0\KantarDeveloperCodingTest.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\KantarDeveloperCodingTest\KantarDeveloperCodingTest\obj\Debug\net6.0\ref\KantarDeveloperCodingTest.dll
+C:\Users\Pedro\source\repos\KantarDeveloperCodingTest\KantarDeveloperCodingTest\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Pedro\source\repos\KantarDeveloperCodingTest\KantarDeveloperCodingTest\obj\Debug\net6.0\KantarDeveloperCodingTest.csproj.CopyComplete
